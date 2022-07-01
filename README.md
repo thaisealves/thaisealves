@@ -28,6 +28,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 ### Most Used Languages && Stats 
 
 ![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&theme=monokai)
-![Thaise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai&langs_count=5)
+![Thaise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai)
 
 
