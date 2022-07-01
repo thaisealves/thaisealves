@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 
 ### Most Used Languages && Stats 
 
-<img align="center" alt="Thaise's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&layout=compact&theme=monokai" />
-<img align="center" alt="Thaise's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&layout=compact&theme=monokai" />
+[![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&theme=monokai)]
+[![Thaise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai)]
 
 
