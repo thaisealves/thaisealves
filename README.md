@@ -1,4 +1,4 @@
-## Hi there, I'm Thaise <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">
+## Hi there, I'm Thaise <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 - I'm Brazilian 
 - I'm currently studying at the Driven Education bootcamp, getting better on my developer skills
