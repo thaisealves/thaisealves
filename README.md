@@ -26,7 +26,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Jest" width="26px" title="Jest"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
+<img align="left" alt="Figma" width="26px" title="Figma"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Trello" width="26px" title="Trello"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+                   
           
           
 <br />
