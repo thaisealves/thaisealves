@@ -37,8 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 <br />
 
 ### Getting in touch with me
-
-<a href="https://www.linkedin.com/in/thaise-silva-alves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+          
+<a href="https://www.linkedin.com/in/thaise-silva-alves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 <!-- [<a href="http://discord.com/users/plmddsthaise#0654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;](url) < -->
 
 
@@ -48,6 +48,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 ![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&theme=monokai)
 <br />
 <br />
-![Thaise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai)
-
+![Thaise's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai)
+<br />
+<br />
+![Thaise's GitHub Streak](https://streak-stats.demolab.com/?user=thaisealves&theme=monokai)
 
