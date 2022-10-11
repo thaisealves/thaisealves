@@ -30,26 +30,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Trello" width="26px" title="Trello"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-                   
-          
+<img align="left" alt="Slack" width="26px" title="Slack"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />          
+
           
 <br />
 <br />
 
 ### Getting in touch with me
           
-<a href="https://www.linkedin.com/in/thaise-silva-alves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<!-- [<a href="http://discord.com/users/plmddsthaise#0654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;](url) < -->
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaise-silva-alves/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves.thaisesilva@gmail.com)
 
 
 ### Most Used Languages && Stats 
-
-![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&theme=monokai)
-<br />
-<br />
-![Thaise's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&theme=monokai)
-<br />
-<br />
-![Thaise's GitHub Streak](https://streak-stats.demolab.com/?user=thaisealves&theme=monokai)
-
+<div align="center"> 
+  
+  ![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&layout=compact&theme=monokai)
+  ![Thaise's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&layout=compact&langs_count=6&theme=monokai)
+  </br>
+  ![Thaise's GitHub Streak](https://streak-stats.demolab.com/?user=thaisealves&theme=monokai)
+</div>
