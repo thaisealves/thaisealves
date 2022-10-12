@@ -2,8 +2,8 @@
 
 - I'm Brazilian 
 - I'm currently studying at the Driven Education bootcamp, getting better on my developer skills
-- I'm always looking to improve myself, and lately I've been really excited about the dev world
-- Always up to know new cultures and speak another languages
+- I'm always looking up to improve myself, with a current focus on web-dev
+- Always up to learning about new cultures and another languages
 
 
 ### Languages and Tools
