@@ -46,13 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg
 ### Most Used Languages && Stats 
 <div align="center"> 
 
-  ![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&layout=compact&theme=monokai)
-  ![Thaise's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&layout=compact&langs_count=6&theme=monokai)
-
-</div>
-
-<div align="center"> 
-
+ ![Thaise's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisealves&layout=compact&theme=monokai)
+ ![Thaise's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaisealves&layout=compact&langs_count=6&theme=monokai)
  ![Thaise's GitHub Streak](https://streak-stats.demolab.com/?user=thaisealves&theme=monokai)
 
 </div>
