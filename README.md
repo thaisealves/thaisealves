@@ -31,8 +31,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
 <img align="left" alt="Trello" width="26px" title="Trello"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Slack" width="26px" title="Slack"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />          
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  
+<img align="left" alt="Git" width="26px" title="Git"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
           
 <br />
 <br />
