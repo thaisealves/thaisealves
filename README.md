@@ -1,7 +1,8 @@
 ## Hi there, I'm Thaise <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 - I'm Brazilian 
-- I'm currently studying at the Driven Education bootcamp, getting better on my developer skills
+- I'm a FullStack Web Developer
+- I've studied at Driven Education
 - I'm always looking up to improve myself, with a current focus on web-dev
 - Always up to learning about new cultures and another languages
 
