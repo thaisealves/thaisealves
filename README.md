@@ -35,7 +35,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  
 <img align="left" alt="Git" width="26px" title="Git"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-          
+<img align="left" alt="GitHub" width="26px" title="GitHub"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />            
+         
 <br />
 <br />
 
