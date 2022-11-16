@@ -25,6 +25,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" title="PostgreSQL"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Redis" width="26px" title="Redis"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+<img align="left" alt="Docker" width="26px" title="Docker"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Jest" width="26px" title="Jest"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Figma" width="26px" title="Figma"
@@ -37,7 +41,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="left" alt="GitHub" width="26px" title="GitHub"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />            
-         
+
+          
 <br />
 <br />
 
