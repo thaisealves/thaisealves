@@ -40,7 +40,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg
 <img align="left" alt="Git" width="26px" title="Git"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="left" alt="GitHub" width="26px" title="GitHub"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />            
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+
+<img align="left" alt="Vite" width="26px" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+                     
 
           
 <br />
