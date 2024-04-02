@@ -3,7 +3,7 @@
 - I'm Brazilian 
 - I'm a FullStack Web Developer
 - I've studied at Driven Education
-- I'm always looking up to improve myself, with a current focus on web-dev
+- I'm always looking up for self improvement, with a current focus on web-dev
 - Always up to learning about new cultures and another languages
 
 
