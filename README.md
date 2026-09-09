@@ -1,11 +1,9 @@
 ## Hi there, I'm Thaise <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 - I'm Brazilian 
-- I'm a FullStack Web Developer
-- I've studied at Driven Education
-- I'm always looking up for self improvement, with a current focus on web-dev
-- Always up to learning about new cultures and another languages
-
+- I'm a FullStack Web Developer, focused at FrontEnd development
+- I'm a student at Universidade Federal de Juiz de Fora - UFJF
+- I'm always looking up for self improvement and learning
 
 ### Languages and Tools
 
